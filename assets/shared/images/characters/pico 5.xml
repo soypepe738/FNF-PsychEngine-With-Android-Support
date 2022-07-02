@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pico neo corrupted saved.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pico Down Note0000" x="0" y="0" width="548" height="462"/>
+	<SubTexture name="Pico Down Note0001" x="0" y="0" width="548" height="462"/>
+	<SubTexture name="Pico Down Note0002" x="548" y="0" width="548" height="462"/>
+	<SubTexture name="Pico Down Note0003" x="548" y="0" width="548" height="462"/>
+	<SubTexture name="Pico Down Note0004" x="548" y="0" width="548" height="462"/>
+	<SubTexture name="Pico Down Note0005" x="548" y="0" width="548" height="462"/>
+	<SubTexture name="Pico Down Note0006" x="548" y="0" width="548" height="462"/>
+	<SubTexture name="Pico Down Note0007" x="548" y="0" width="548" height="462"/>
+	<SubTexture name="Pico Down Note0008" x="548" y="0" width="548" height="462"/>
+	<SubTexture name="Pico Down Note0009" x="548" y="0" width="548" height="462"/>
+	<SubTexture name="Pico Down Note0010" x="548" y="0" width="548" height="462"/>
+	<SubTexture name="Pico Idle Dance0000" x="1096" y="0" width="490" height="457" frameX="0" frameY="-12" frameWidth="490" frameHeight="470"/>
+	<SubTexture name="Pico Idle Dance0001" x="1096" y="0" width="490" height="457" frameX="0" frameY="-12" frameWidth="490" frameHeight="470"/>
+	<SubTexture name="Pico Idle Dance0002" x="0" y="462" width="484" height="466" frameX="-4" frameY="-4" frameWidth="490" frameHeight="470"/>
+	<SubTexture name="Pico Idle Dance0003" x="0" y="462" width="484" height="466" frameX="-4" frameY="-4" frameWidth="490" frameHeight="470"/>
+	<SubTexture name="Pico Idle Dance0004" x="484" y="462" width="444" height="467" frameX="-36" frameY="-2" frameWidth="490" frameHeight="470"/>
+	<SubTexture name="Pico Idle Dance0005" x="484" y="462" width="444" height="467" frameX="-36" frameY="-2" frameWidth="490" frameHeight="470"/>
+	<SubTexture name="Pico Idle Dance0006" x="928" y="462" width="434" height="469" frameX="-43" frameY="0" frameWidth="490" frameHeight="470"/>
+	<SubTexture name="Pico Idle Dance0007" x="928" y="462" width="434" height="469" frameX="-43" frameY="0" frameWidth="490" frameHeight="470"/>
+	<SubTexture name="Pico Idle Dance0008" x="928" y="462" width="434" height="469" frameX="-43" frameY="0" frameWidth="490" frameHeight="470"/>
+	<SubTexture name="Pico Idle Dance0009" x="928" y="462" width="434" height="469" frameX="-43" frameY="0" frameWidth="490" frameHeight="470"/>
+	<SubTexture name="Pico Idle Dance0010" x="928" y="462" width="434" height="469" frameX="-43" frameY="0" frameWidth="490" frameHeight="470"/>
+	<SubTexture name="Pico NOTE LEFT0000" x="1362" y="462" width="423" height="465"/>
+	<SubTexture name="Pico NOTE LEFT0001" x="1362" y="462" width="423" height="465"/>
+	<SubTexture name="Pico NOTE LEFT0002" x="0" y="931" width="417" height="465" frameX="-5" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Pico NOTE LEFT0003" x="0" y="931" width="417" height="465" frameX="-5" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Pico NOTE LEFT0004" x="0" y="931" width="417" height="465" frameX="-5" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Pico NOTE LEFT0005" x="0" y="931" width="417" height="465" frameX="-5" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Pico NOTE LEFT0006" x="0" y="931" width="417" height="465" frameX="-5" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Pico NOTE LEFT0007" x="0" y="931" width="417" height="465" frameX="-5" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Pico NOTE LEFT0008" x="0" y="931" width="417" height="465" frameX="-5" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Pico NOTE LEFT0009" x="0" y="931" width="417" height="465" frameX="-5" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Pico NOTE LEFT0010" x="0" y="931" width="417" height="465" frameX="-5" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Pico NOTE LEFT0011" x="0" y="931" width="417" height="465" frameX="-5" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Pico NOTE LEFT0012" x="0" y="931" width="417" height="465" frameX="-5" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Pico NOTE LEFT0013" x="0" y="931" width="417" height="465" frameX="-5" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Pico NOTE LEFT0014" x="0" y="931" width="417" height="465" frameX="-5" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Pico NOTE LEFT0015" x="0" y="931" width="417" height="465" frameX="-5" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Pico NOTE LEFT0016" x="0" y="931" width="417" height="465" frameX="-5" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Pico Note Right0000" x="417" y="931" width="499" height="530" frameX="-10" frameY="0" frameWidth="509" frameHeight="530"/>
+	<SubTexture name="Pico Note Right0001" x="417" y="931" width="499" height="530" frameX="-10" frameY="0" frameWidth="509" frameHeight="530"/>
+	<SubTexture name="Pico Note Right0002" x="916" y="931" width="505" height="530" frameX="0" frameY="0" frameWidth="509" frameHeight="530"/>
+	<SubTexture name="Pico Note Right0003" x="916" y="931" width="505" height="530" frameX="0" frameY="0" frameWidth="509" frameHeight="530"/>
+	<SubTexture name="Pico Note Right0004" x="916" y="931" width="505" height="530" frameX="0" frameY="0" frameWidth="509" frameHeight="530"/>
+	<SubTexture name="Pico Note Right0005" x="916" y="931" width="505" height="530" frameX="0" frameY="0" frameWidth="509" frameHeight="530"/>
+	<SubTexture name="Pico Note Right0006" x="916" y="931" width="505" height="530" frameX="0" frameY="0" frameWidth="509" frameHeight="530"/>
+	<SubTexture name="Pico Note Right0007" x="916" y="931" width="505" height="530" frameX="0" frameY="0" frameWidth="509" frameHeight="530"/>
+	<SubTexture name="Pico Note Right0008" x="916" y="931" width="505" height="530" frameX="0" frameY="0" frameWidth="509" frameHeight="530"/>
+	<SubTexture name="Pico Note Right0009" x="916" y="931" width="505" height="530" frameX="0" frameY="0" frameWidth="509" frameHeight="530"/>
+	<SubTexture name="Pico Note Right0010" x="916" y="931" width="505" height="530" frameX="0" frameY="0" frameWidth="509" frameHeight="530"/>
+	<SubTexture name="Pico Note Right0011" x="916" y="931" width="505" height="530" frameX="0" frameY="0" frameWidth="509" frameHeight="530"/>
+	<SubTexture name="Pico Note Right0012" x="916" y="931" width="505" height="530" frameX="0" frameY="0" frameWidth="509" frameHeight="530"/>
+	<SubTexture name="Pico Note Right0013" x="916" y="931" width="505" height="530" frameX="0" frameY="0" frameWidth="509" frameHeight="530"/>
+	<SubTexture name="Pico Note Right0014" x="916" y="931" width="505" height="530" frameX="0" frameY="0" frameWidth="509" frameHeight="530"/>
+	<SubTexture name="Pico Note Right0015" x="916" y="931" width="505" height="530" frameX="0" frameY="0" frameWidth="509" frameHeight="530"/>
+	<SubTexture name="Pico Note Right0016" x="916" y="931" width="505" height="530" frameX="0" frameY="0" frameWidth="509" frameHeight="530"/>
+	<SubTexture name="pico Up note0000" x="1421" y="931" width="402" height="505" frameX="-11" frameY="0" frameWidth="417" frameHeight="505"/>
+	<SubTexture name="pico Up note0001" x="1421" y="931" width="402" height="505" frameX="-11" frameY="0" frameWidth="417" frameHeight="505"/>
+	<SubTexture name="pico Up note0002" x="0" y="1461" width="417" height="487" frameX="0" frameY="-18" frameWidth="417" frameHeight="505"/>
+	<SubTexture name="pico Up note0003" x="0" y="1461" width="417" height="487" frameX="0" frameY="-18" frameWidth="417" frameHeight="505"/>
+	<SubTexture name="pico Up note0004" x="0" y="1461" width="417" height="487" frameX="0" frameY="-18" frameWidth="417" frameHeight="505"/>
+	<SubTexture name="pico Up note0005" x="0" y="1461" width="417" height="487" frameX="0" frameY="-18" frameWidth="417" frameHeight="505"/>
+	<SubTexture name="pico Up note0006" x="0" y="1461" width="417" height="487" frameX="0" frameY="-18" frameWidth="417" frameHeight="505"/>
+	<SubTexture name="pico Up note0007" x="0" y="1461" width="417" height="487" frameX="0" frameY="-18" frameWidth="417" frameHeight="505"/>
+	<SubTexture name="pico Up note0008" x="0" y="1461" width="417" height="487" frameX="0" frameY="-18" frameWidth="417" frameHeight="505"/>
+	<SubTexture name="pico Up note0009" x="0" y="1461" width="417" height="487" frameX="0" frameY="-18" frameWidth="417" frameHeight="505"/>
+	<SubTexture name="pico Up note0010" x="0" y="1461" width="417" height="487" frameX="0" frameY="-18" frameWidth="417" frameHeight="505"/>
+	<SubTexture name="pico Up note0011" x="0" y="1461" width="417" height="487" frameX="0" frameY="-18" frameWidth="417" frameHeight="505"/>
+	<SubTexture name="pico Up note0012" x="0" y="1461" width="417" height="487" frameX="0" frameY="-18" frameWidth="417" frameHeight="505"/>
+	<SubTexture name="pico Up note0013" x="0" y="1461" width="417" height="487" frameX="0" frameY="-18" frameWidth="417" frameHeight="505"/>
+	<SubTexture name="pico Up note0014" x="0" y="1461" width="417" height="487" frameX="0" frameY="-18" frameWidth="417" frameHeight="505"/>
+	<SubTexture name="pico Up note0015" x="0" y="1461" width="417" height="487" frameX="0" frameY="-18" frameWidth="417" frameHeight="505"/>
+</TextureAtlas>
