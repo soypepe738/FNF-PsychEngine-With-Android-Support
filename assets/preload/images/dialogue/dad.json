@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		120,
+		-10
+	],
+	"scale": 1.2,
+	"animations": [
+		{
+			"loop_name": "Neo dad point",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo dad point",
+			"anim": "point",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Neo dad unhappy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo dad unhappy",
+			"anim": "unhappy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Neo dad fist",
+			"idle_offsets": [
+				0,
+				5
+			],
+			"idle_name": "Neo dad fist",
+			"anim": "fist",
+			"loop_offsets": [
+				0,
+				5
+			]
+		},
+		{
+			"loop_name": "Neo dad smirk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo dad smirk",
+			"anim": "smirk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "dad"
+}
